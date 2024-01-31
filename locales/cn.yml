@@ -32,11 +32,11 @@ about:
 
     这个精彩的网站由 [Corentin Thomasset](https://github.com/CorentinTh) 用 ❤ 制作，为开发人员和 IT 工作人员聚集了有用的工具。 如果您发现它有用，请随时将其分享给您认为可能也有用的人，并且不要忘记在快捷栏中将其添加为书签！
 
-    IT Tools 是开源的（根据 MIT 许可证）并且免费，而且永远都是免费的，但托管和续订域名需要我花钱。 如果您想支持我的工作，并鼓励我添加更多工具，请考虑通过[赞助我](https://www.buymeacoffee.com/cthmsst)来支持。
+    零叉IT工具站 是开源的（根据 MIT 许可证）并且免费，而且永远都是免费的，但托管和续订域名需要我花钱。 如果您想支持我的工作，并鼓励我添加更多工具，请考虑通过[赞助我](https://www.buymeacoffee.com/cthmsst)来支持。
 
     ## 技术
 
-    IT Tools 采用 Vue.js (Vue 3) 和 Naive UI 组件库制作，由 Vercel 托管和持续部署。 一些工具使用了第三方开源库，您可以在 [package.json](https://github.com/CorentinTh/it-tools/blob/main/package.json) 文件中找到完整列表 存储库的。
+    零叉IT工具站 采用 Vue.js (Vue 3) 和 Naive UI 组件库制作，由 Vercel 托管和持续部署。 一些工具使用了第三方开源库，您可以在 [package.json](https://github.com/CorentinTh/it-tools/blob/main/package.json) 文件中找到完整列表 存储库的。
 
     ## 发现错误？ 缺少一个工具？
 
